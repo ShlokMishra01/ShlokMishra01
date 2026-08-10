@@ -13,10 +13,9 @@ I am focused on building practical, explainable, and production-ready systems us
     <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
-  <a href="./Shlok_Mishra_Resume.pdf">
+  <a href="./Shlok_Mishra_Resume%20(1).pdf">
     <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
   </a>
 
 </p>
-
 
