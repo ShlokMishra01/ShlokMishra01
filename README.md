@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/01-ABOUT-1E90FF?style=for-the-badge&labelColor=0D1117" alt="About">
 </p>
 
-<table width="100%">
+<table align="center" width="94%">
 <tr>
 
 <td width="67%" valign="middle">
@@ -89,7 +89,7 @@ deployable, and built around real problems.
   </picture>
 </p>
 
-<table width="100%">
+<table align="center" width="94%">
 <tr>
 
 <td width="25%" align="center" valign="top">
@@ -160,15 +160,131 @@ Async Endpoints
 <br>
 
 <!-- ====================================================== -->
+<!--                PROFESSIONAL EXPERIENCE                 -->
+<!-- ====================================================== -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/03-PROFESSIONAL_EXPERIENCE-1E90FF?style=for-the-badge&labelColor=0D1117" alt="Professional Experience">
+</p>
+
+<table align="center" width="94%">
+<tr>
+
+<td width="30%" align="center" valign="middle">
+
+<sub>EXPERIENCE / 01</sub>
+
+<h2>WORKMATES</h2>
+
+<b>Software Development Intern</b>
+
+<br><br>
+
+<code>May 2026 — August 2026</code>
+
+<br><br>
+
+<sub>
+Affiliated with<br>
+<b>Pragatishil Bahuuddeshiya Sanstha, Washim</b>
+</sub>
+
+</td>
+
+<td width="70%" valign="middle">
+
+<h3>Production Web Development</h3>
+
+Delivered <b>two production institutional platforms</b> for
+<b>Sunita Nursing School</b> and
+<b>Narendra Suryawanshi College of Pharmacy</b>, converting fragmented
+admissions, academic, faculty, approval, compliance, and contact information
+into structured digital systems.
+
+<br><br>
+
+Designed reusable modules and a lightweight internal workflow for
+institutional records, document access, notices, enquiries, and recurring
+content updates based on stakeholder requirements.
+
+<br><br>
+
+Managed production releases through <b>Git/GitHub and Hostinger</b>,
+including responsive testing, EmailJS integration, DNS/SSL setup, indexing,
+sitemap and canonical metadata, troubleshooting, and post-launch maintenance.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <sub>LIVE / PRODUCTION DEPLOYMENTS</sub>
+</p>
+
+<table align="center" width="86%">
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<b>SUNITA NURSING SCHOOL</b>
+
+<br><br>
+
+<a href="https://sunitanursingschool.in/">
+  <img src="https://img.shields.io/badge/VIEW_LIVE-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sunita Nursing School">
+</a>
+
+<br><br>
+
+<sub>Production institutional platform</sub>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<b>NARENDRA SURYAWANSHI COLLEGE OF PHARMACY</b>
+
+<br><br>
+
+<a href="https://nsuryawanshicop.com/">
+  <img src="https://img.shields.io/badge/VIEW_LIVE-673DE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Narendra Suryawanshi College of Pharmacy">
+</a>
+
+<br><br>
+
+<sub>Production institutional platform</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square" alt="Hostinger">
+  <img src="https://img.shields.io/badge/EmailJS-1E90FF?style=flat-square" alt="EmailJS">
+  <img src="https://img.shields.io/badge/DNS%2FSSL-00A86B?style=flat-square" alt="DNS SSL">
+  <img src="https://img.shields.io/badge/Technical_SEO-0969DA?style=flat-square" alt="Technical SEO">
+</p>
+
+<br>
+
+<!-- ====================================================== -->
 <!--                     SELECTED WORK                      -->
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/03-SELECTED_WORK-1E90FF?style=for-the-badge&labelColor=0D1117" alt="Selected Work">
+  <img src="https://img.shields.io/badge/04-SELECTED_WORK-1E90FF?style=for-the-badge&labelColor=0D1117" alt="Selected Work">
 </p>
 
-<table width="100%">
-
+<table align="center" width="94%">
 <tr>
 
 <td width="50%" valign="top">
@@ -184,11 +300,11 @@ and an LLM/RAG assistant.</b>
 <br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Random_Forest-0969DA?style=flat-square&logoColor=white" alt="Random Forest">
-<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square&logoColor=white" alt="XGBoost">
-<img src="https://img.shields.io/badge/LightGBM-00A86B?style=flat-square&logoColor=white" alt="LightGBM">
-<img src="https://img.shields.io/badge/SHAP-7C3AED?style=flat-square&logoColor=white" alt="SHAP">
-<img src="https://img.shields.io/badge/LLM%2FRAG-1E90FF?style=flat-square&logoColor=white" alt="LLM RAG">
+<img src="https://img.shields.io/badge/Random_Forest-0969DA?style=flat-square" alt="Random Forest">
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square" alt="XGBoost">
+<img src="https://img.shields.io/badge/LightGBM-00A86B?style=flat-square" alt="LightGBM">
+<img src="https://img.shields.io/badge/SHAP-7C3AED?style=flat-square" alt="SHAP">
+<img src="https://img.shields.io/badge/LLM%2FRAG-1E90FF?style=flat-square" alt="LLM RAG">
 <img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white" alt="Flask">
 
 </td>
@@ -208,18 +324,22 @@ blockchain-compatible authenticity verification.</b>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
-<img src="https://img.shields.io/badge/RetinaFace-2563EB?style=flat-square&logoColor=white" alt="RetinaFace">
-<img src="https://img.shields.io/badge/CNN-0969DA?style=flat-square&logoColor=white" alt="CNN">
-<img src="https://img.shields.io/badge/Grad--CAM-9333EA?style=flat-square&logoColor=white" alt="Grad-CAM">
+<img src="https://img.shields.io/badge/RetinaFace-2563EB?style=flat-square" alt="RetinaFace">
+<img src="https://img.shields.io/badge/CNN-0969DA?style=flat-square" alt="CNN">
+<img src="https://img.shields.io/badge/Grad--CAM-9333EA?style=flat-square" alt="Grad-CAM">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
 
 </td>
 
 </tr>
+</table>
 
+<br>
+
+<table align="center" width="47%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <sub>PROJECT / 03</sub>
 
@@ -234,46 +354,13 @@ on the project dataset.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/TensorFlow%2FKeras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Keras">
-<img src="https://img.shields.io/badge/CNN-0969DA?style=flat-square&logoColor=white" alt="CNN">
+<img src="https://img.shields.io/badge/CNN-0969DA?style=flat-square" alt="CNN">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
 
 </td>
 
-<td width="50%" valign="top">
-
-<sub>PROJECT / 04</sub>
-
-<h3>Production Development</h3>
-
-Delivered <b>two live institutional platforms</b> end-to-end,
-including development, deployment, DNS/SSL, integrations,
-technical SEO, testing, and post-launch maintenance.
-
-<br><br>
-
-<a href="https://sunitanursingschool.in/">
-  <img src="https://img.shields.io/badge/LIVE-Sunita_Nursing_School-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sunita Nursing School">
-</a>
-
-<a href="https://nsuryawanshicop.com/">
-  <img src="https://img.shields.io/badge/LIVE-N.S._College_of_Pharmacy-673DE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Narendra Suryawanshi College of Pharmacy">
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-<img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logoColor=white" alt="Hostinger">
-<img src="https://img.shields.io/badge/EmailJS-1E90FF?style=flat-square&logoColor=white" alt="EmailJS">
-<img src="https://img.shields.io/badge/DNS%2FSSL-00A86B?style=flat-square&logoColor=white" alt="DNS SSL">
-<img src="https://img.shields.io/badge/Technical_SEO-0969DA?style=flat-square&logoColor=white" alt="Technical SEO">
-
-</td>
-
 </tr>
-
 </table>
 
 <br>
@@ -283,10 +370,10 @@ technical SEO, testing, and post-launch maintenance.
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/04-HIGHLIGHTS-1E90FF?style=for-the-badge&labelColor=0D1117" alt="Highlights">
+  <img src="https://img.shields.io/badge/05-HIGHLIGHTS-1E90FF?style=for-the-badge&labelColor=0D1117" alt="Highlights">
 </p>
 
-<table width="100%">
+<table align="center" width="86%">
 
 <tr>
 <td width="8%" align="center"><b>01</b></td>
