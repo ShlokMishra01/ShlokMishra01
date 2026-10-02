@@ -3,24 +3,36 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="./githybb.gif" width="72%" alt="Shlok Mishra">
+  <img src="./githybb.gif" width="68%" alt="Shlok Mishra">
 </p>
 
 <h1 align="center">SHLOK MISHRA</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2600&pause=850&color=1E90FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Developer;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;Explainable+AI+%2B+RAG+Systems;From+Notebook+to+Production" alt="Typing SVG">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2600&pause=850&color=1E90FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Developer;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;Explainable+AI+%2B+RAG+Systems;From+Notebook+to+Production"
+    alt="AI ML Developer"
+  >
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shlok-mishra-9a649b255">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
   </a>
   <a href="mailto:shlokmishrawork@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    >
   </a>
   <a href="./Shlok_Mishra_Resume%20(1).pdf">
-    <img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readdotcv&logoColor=58A6FF" alt="Resume">
+    <img
+      src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readdotcv&logoColor=58A6FF"
+      alt="Resume"
+    >
   </a>
 </p>
 
@@ -31,7 +43,10 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-ABOUT-1E90FF?style=for-the-badge&labelColor=0D1117" alt="About">
+  <img
+    src="https://img.shields.io/badge/01-ABOUT-1E90FF?style=for-the-badge&labelColor=0D1117"
+    alt="About"
+  >
 </p>
 
 <table align="center" width="94%">
@@ -41,28 +56,38 @@
 
 <h2>AI/ML Developer</h2>
 
-I build practical AI systems across <b>Machine Learning, Computer Vision,
-LLMs, RAG, explainability, and backend development.</b>
+I build practical AI systems across
+<b>Machine Learning, Computer Vision, LLMs, RAG, explainability, and backend development.</b>
 
 <br><br>
 
-My work covers the complete development cycle — from experimentation,
-model evaluation, and explainability to API development, deployment,
-integration, and production maintenance.
+My work spans the development lifecycle — from experimentation and
+model evaluation to explainability, API development, deployment,
+integration, and maintenance.
 
 <br><br>
 
-I focus on turning research-driven ideas into software that is
+I focus on turning technical ideas into software that is
 <b>usable, measurable, and deployable.</b>
 
 <br><br>
 
-<code>BUILD</code> → <code>EXPLAIN</code> → <code>INTEGRATE</code> → <code>DEPLOY</code>
+<code>BUILD</code>
+&nbsp;→&nbsp;
+<code>EXPLAIN</code>
+&nbsp;→&nbsp;
+<code>INTEGRATE</code>
+&nbsp;→&nbsp;
+<code>DEPLOY</code>
 
 </td>
 
 <td width="33%" align="center" valign="middle">
-  <img src="./bfc8aae86c8b1d33920bdff8e4df236c.jpg" width="190" alt="Artwork">
+  <img
+    src="./bfc8aae86c8b1d33920bdff8e4df236c.jpg"
+    width="180"
+    alt="Artwork"
+  >
 </td>
 
 </tr>
@@ -75,62 +100,64 @@ I focus on turning research-driven ideas into software that is
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/02-TECHNICAL_SPECIALIZATION-1E90FF?style=for-the-badge&labelColor=0D1117" alt="Technical Specialization">
+  <img
+    src="https://img.shields.io/badge/02-TECHNICAL_SPECIALIZATION-1E90FF?style=for-the-badge&labelColor=0D1117"
+    alt="Technical Specialization"
+  >
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2100&pause=650&color=58A6FF&center=true&vCenter=true&width=850&height=50&lines=Python+%E2%80%A2+SQL+%E2%80%A2+TensorFlow+%E2%80%A2+scikit-learn;XGBoost+%E2%80%A2+LightGBM+%E2%80%A2+SHAP+%E2%80%A2+Machine+Learning;OpenCV+%E2%80%A2+CNNs+%E2%80%A2+Grad-CAM+%E2%80%A2+Computer+Vision;LLMs+%E2%80%A2+RAG+%E2%80%A2+LangChain+%E2%80%A2+LangGraph;FastAPI+%E2%80%A2+Flask+%E2%80%A2+REST+APIs;Git+%E2%80%A2+GitHub+%E2%80%A2+Deployment" alt="Technical Skills">
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,tensorflow,sklearn,opencv,fastapi,flask,git,github,vite&theme=dark" alt="Technology Stack">
+  <img
+    src="https://skillicons.dev/icons?i=python,postgres,tensorflow,sklearn,opencv,fastapi,flask,git,github,vite&theme=dark"
+    alt="Technology Stack"
+  >
 </p>
 
 <table align="center" width="94%">
 <tr>
 
 <td width="25%" align="center" valign="top">
-<b>MACHINE LEARNING</b>
-<br><br>
-<sub>
-Scikit-learn<br>
-XGBoost<br>
-LightGBM<br>
-SHAP
-</sub>
+  <b>MACHINE LEARNING</b>
+  <br><br>
+  <sub>
+    Scikit-learn<br>
+    XGBoost<br>
+    LightGBM<br>
+    SHAP
+  </sub>
 </td>
 
 <td width="25%" align="center" valign="top">
-<b>COMPUTER VISION</b>
-<br><br>
-<sub>
-TensorFlow<br>
-CNNs<br>
-OpenCV<br>
-Grad-CAM
-</sub>
+  <b>COMPUTER VISION</b>
+  <br><br>
+  <sub>
+    TensorFlow<br>
+    CNNs<br>
+    OpenCV<br>
+    Grad-CAM
+  </sub>
 </td>
 
 <td width="25%" align="center" valign="top">
-<b>GENERATIVE AI</b>
-<br><br>
-<sub>
-LLMs<br>
-RAG<br>
-LangChain<br>
-LangGraph
-</sub>
+  <b>GENERATIVE AI</b>
+  <br><br>
+  <sub>
+    LLMs<br>
+    RAG<br>
+    LangChain<br>
+    LangGraph
+  </sub>
 </td>
 
 <td width="25%" align="center" valign="top">
-<b>BACKEND</b>
-<br><br>
-<sub>
-FastAPI<br>
-Flask<br>
-REST APIs<br>
-Async Endpoints
-</sub>
+  <b>BACKEND</b>
+  <br><br>
+  <sub>
+    FastAPI<br>
+    Flask<br>
+    REST APIs<br>
+    Async Endpoints
+  </sub>
 </td>
 
 </tr>
@@ -139,19 +166,61 @@ Async Endpoints
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python"
+  >
+
+  <img
+    src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
+    alt="SQL"
+  >
+
+  <img
+    src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
+    alt="TensorFlow"
+  >
+
+  <img
+    src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"
+    alt="scikit-learn"
+  >
+
+  <img
+    src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"
+    alt="OpenCV"
+  >
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
+  <img
+    src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"
+    alt="FastAPI"
+  >
+
+  <img
+    src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white"
+    alt="Flask"
+  >
+
+  <img
+    src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"
+    alt="LangChain"
+  >
+
+  <img
+    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git"
+  >
+
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  >
+
 </p>
 
 <br>
@@ -161,7 +230,10 @@ Async Endpoints
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/03-PROFESSIONAL_EXPERIENCE-1E90FF?style=for-the-badge&labelColor=0D1117" alt="Professional Experience">
+  <img
+    src="https://img.shields.io/badge/03-PROFESSIONAL_EXPERIENCE-1E90FF?style=for-the-badge&labelColor=0D1117"
+    alt="Professional Experience"
+  >
 </p>
 
 <table align="center" width="94%">
@@ -198,13 +270,13 @@ Delivered <b>two production institutional platforms</b> for
 
 <br><br>
 
-Designed reusable interfaces and structured workflows for institutional
+Built reusable interfaces and structured workflows for institutional
 information, admissions, academics, faculty, notices, enquiries,
 documents, and recurring content updates.
 
 <br><br>
 
-Handled production deployment and maintenance through
+Managed deployment and maintenance through
 <b>Git/GitHub and Hostinger</b>, including responsive testing,
 EmailJS integration, DNS/SSL configuration, indexing, sitemap and
 canonical metadata, troubleshooting, and post-launch updates.
@@ -223,35 +295,48 @@ canonical metadata, troubleshooting, and post-launch updates.
 <table align="center" width="86%">
 <tr>
 
-<td width="50%" align="center" valign="middle">
+<td width="33%" align="center" valign="middle">
 
 <b>SUNITA NURSING SCHOOL</b>
 
 <br><br>
 
 <a href="https://sunitanursingschool.in/">
-  <img src="https://img.shields.io/badge/VIEW_LIVE-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sunita Nursing School">
+  <img
+    src="https://img.shields.io/badge/VIEW_LIVE-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Sunita Nursing School"
+  >
 </a>
-
-<br><br>
-
-<sub>Production institutional platform</sub>
 
 </td>
 
-<td width="50%" align="center" valign="middle">
+<td width="33%" align="center" valign="middle">
 
 <b>NARENDRA SURYAWANSHI COLLEGE OF PHARMACY</b>
 
 <br><br>
 
 <a href="https://nsuryawanshicop.com/">
-  <img src="https://img.shields.io/badge/VIEW_LIVE-673DE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Narendra Suryawanshi College of Pharmacy">
+  <img
+    src="https://img.shields.io/badge/VIEW_LIVE-673DE6?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Narendra Suryawanshi College of Pharmacy"
+  >
 </a>
+
+</td>
+
+<td width="33%" align="center" valign="middle">
+
+<b>FIND YOUR NICHE</b>
 
 <br><br>
 
-<sub>Production institutional platform</sub>
+<a href="https://find-your-niche-01.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/VIEW_LIVE-111827?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Find Your Niche"
+  >
+</a>
 
 </td>
 
@@ -265,11 +350,16 @@ canonical metadata, troubleshooting, and post-launch updates.
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/04-SELECTED_WORK-1E90FF?style=for-the-badge&labelColor=0D1117" alt="Selected Work">
+  <img
+    src="https://img.shields.io/badge/04-SELECTED_WORK-1E90FF?style=for-the-badge&labelColor=0D1117"
+    alt="Selected Work"
+  >
 </p>
 
 <table align="center" width="94%">
 <tr>
+
+<!-- PROJECT 01 -->
 
 <td width="50%" valign="top">
 
@@ -283,6 +373,15 @@ and an LLM/RAG assistant.</b>
 
 <br><br>
 
+<a href="https://github.com/ShlokMishra01/prithvi-agro-ai">
+  <img
+    src="https://img.shields.io/badge/REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Prithvi Agro AI Repository"
+  >
+</a>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Random_Forest-0969DA?style=flat-square" alt="Random Forest">
 <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square" alt="XGBoost">
@@ -292,6 +391,8 @@ and an LLM/RAG assistant.</b>
 <img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white" alt="Flask">
 
 </td>
+
+<!-- PROJECT 02 -->
 
 <td width="50%" valign="top">
 
@@ -306,7 +407,10 @@ semantic similarity, recommendations, and RAG-based conversations.
 <br><br>
 
 <a href="https://find-your-niche-01.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Find Your Niche Live Demo">
+  <img
+    src="https://img.shields.io/badge/LIVE_DEMO-1E90FF?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Find Your Niche Live Demo"
+  >
 </a>
 
 <br><br>
@@ -323,6 +427,8 @@ semantic similarity, recommendations, and RAG-based conversations.
 
 <tr>
 
+<!-- PROJECT 03 -->
+
 <td width="50%" valign="top">
 
 <sub>PROJECT / 03</sub>
@@ -335,6 +441,15 @@ blockchain-compatible authenticity verification.</b>
 
 <br><br>
 
+<a href="https://github.com/ShlokMishra01/Deepfake-Image-and-video-analyzer">
+  <img
+    src="https://img.shields.io/badge/REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Deepfake Analyzer Repository"
+  >
+</a>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
@@ -344,6 +459,8 @@ blockchain-compatible authenticity verification.</b>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
 
 </td>
+
+<!-- PROJECT 04 -->
 
 <td width="50%" valign="top">
 
@@ -374,12 +491,84 @@ project dataset.
 
 <br>
 
+<!-- PROJECT 05 / FINTECH -->
+
+<table align="center" width="94%">
+<tr>
+
+<td width="58%" valign="top">
+
+<sub>PROJECT / 05</sub>
+
+<h3>FinanceFlow AI</h3>
+
+Graph-powered financial intelligence system designed around a simple
+principle: <b>financial facts and calculations should remain separate
+from AI-generated explanations.</b>
+
+<br><br>
+
+The system connects natural-language financial input with
+<b>Neo4j graph relationships, GraphRAG retrieval, deterministic financial
+calculations, and LLM-based explanations.</b>
+
+<br><br>
+
+<a href="https://github.com/ShlokMishra01/Fintech-assistant-model-with-neo4j-and-Python">
+  <img
+    src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="FinanceFlow AI Repository"
+  >
+</a>
+
+</td>
+
+<td width="42%" valign="middle">
+
+<h3>Architecture</h3>
+
+<pre>
+User Query
+     ↓
+Financial Fact Extraction
+     ↓
+Neo4j Knowledge Graph
+     ↓
+GraphRAG Retrieval
+     ↓
+Financial Calculation Engine
+     ↓
+Verified Metrics
+     ↓
+AI Explanation
+     ↓
+Dashboard / API
+</pre>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j">
+  <img src="https://img.shields.io/badge/GraphRAG-1E90FF?style=flat-square" alt="GraphRAG">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
 <!-- ====================================================== -->
 <!--                      HIGHLIGHTS                        -->
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/05-HIGHLIGHTS-1E90FF?style=for-the-badge&labelColor=0D1117" alt="Highlights">
+  <img
+    src="https://img.shields.io/badge/05-HIGHLIGHTS-1E90FF?style=for-the-badge&labelColor=0D1117"
+    alt="Highlights"
+  >
 </p>
 
 <table align="center" width="86%">
@@ -401,12 +590,12 @@ project dataset.
 
 <tr>
 <td width="8%" align="center"><b>04</b></td>
-<td><b>AI/ML Project Portfolio</b> — Machine Learning, Computer Vision, LLM/RAG and AI-backed applications</td>
+<td><b>Five Applied AI Projects</b> — agriculture, taste discovery, media forensics, medical imaging and financial intelligence</td>
 </tr>
 
 <tr>
 <td width="8%" align="center"><b>05</b></td>
-<td><b>Full Development Lifecycle</b> — experimentation, explainability, APIs, deployment and integration</td>
+<td><b>End-to-End Engineering</b> — modelling, explainability, retrieval, APIs, interfaces and deployment</td>
 </tr>
 
 </table>
@@ -428,9 +617,15 @@ project dataset.
 </p>
 
 <p align="center">
-  <sub>Building intelligent systems that move beyond notebooks and into real-world use.</sub>
+  <sub>
+    Building intelligent systems that move beyond notebooks and into real-world use.
+  </sub>
 </p>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:172554,100:1e90ff&height=90&section=footer" width="100%" alt="Footer">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:172554,100:1e90ff&height=90&section=footer"
+  width="100%"
+  alt="Footer"
+>
