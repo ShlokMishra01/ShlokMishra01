@@ -1,38 +1,28 @@
 <!-- ====================================================== -->
-<!--                        HERO                            -->
+<!--                       HERO                             -->
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="./githybb.gif" width="68%" alt="Shlok Mishra">
+  <img src="./githybb.gif" width="40%" alt="Shlok Mishra">
 </p>
 
 <h1 align="center">SHLOK MISHRA</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2600&pause=850&color=1E90FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Developer;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;Explainable+AI+%2B+RAG+Systems;From+Notebook+to+Production"
-    alt="AI ML Developer"
-  >
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2600&pause=850&color=1E90FF&center=true&vCenter=true&width=760&lines=AI+%2F+ML+Developer;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;Explainable+AI+%2B+RAG+Systems;From+Notebook+to+Production" alt="Typing SVG">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shlok-mishra-9a649b255">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    >
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+
   <a href="mailto:shlokmishrawork@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    >
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+
   <a href="./Shlok_Mishra_Resume%20(1).pdf">
-    <img
-      src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readdotcv&logoColor=58A6FF"
-      alt="Resume"
-    >
+    <img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readdotcv&logoColor=58A6FF" alt="Resume">
   </a>
 </p>
 
@@ -43,10 +33,7 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/01-ABOUT-1E90FF?style=for-the-badge&labelColor=0D1117"
-    alt="About"
-  >
+  <img src="https://img.shields.io/badge/01-ABOUT-1E90FF?style=for-the-badge&labelColor=0D1117" alt="About">
 </p>
 
 <table align="center" width="94%">
@@ -61,7 +48,7 @@ I build practical AI systems across
 
 <br><br>
 
-My work spans the development lifecycle — from experimentation and
+My work spans the complete development cycle — from experimentation and
 model evaluation to explainability, API development, deployment,
 integration, and maintenance.
 
@@ -108,9 +95,22 @@ I focus on turning technical ideas into software that is
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,postgres,tensorflow,sklearn,opencv,fastapi,flask,git,github,vite&theme=dark"
-    alt="Technology Stack"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2100&pause=650&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=Python+%E2%80%A2+SQL+%E2%80%A2+TensorFlow+%E2%80%A2+scikit-learn;XGBoost+%E2%80%A2+LightGBM+%E2%80%A2+SHAP+%E2%80%A2+Machine+Learning;OpenCV+%E2%80%A2+CNNs+%E2%80%A2+Grad-CAM+%E2%80%A2+Computer+Vision;LLMs+%E2%80%A2+RAG+%E2%80%A2+LangChain+%E2%80%A2+LangGraph;FastAPI+%E2%80%A2+Flask+%E2%80%A2+REST+APIs+%E2%80%A2+Async+Endpoints;Git+%E2%80%A2+GitHub+%E2%80%A2+Production+Deployment"
+    alt="Technical Skills"
   >
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://skillicons.dev/icons?i=python,postgres,tensorflow,sklearn,opencv,fastapi,flask,git,github,vite&theme=dark"
+    >
+    <img
+      src="https://skillicons.dev/icons?i=python,postgres,tensorflow,sklearn,opencv,fastapi,flask,git,github,vite&theme=light"
+      alt="Technology Stack"
+    >
+  </picture>
 </p>
 
 <table align="center" width="94%">
@@ -166,61 +166,19 @@ I focus on turning technical ideas into software that is
 <br>
 
 <p align="center">
-
-  <img
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-    alt="Python"
-  >
-
-  <img
-    src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
-    alt="SQL"
-  >
-
-  <img
-    src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
-    alt="TensorFlow"
-  >
-
-  <img
-    src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"
-    alt="scikit-learn"
-  >
-
-  <img
-    src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"
-    alt="OpenCV"
-  >
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
 </p>
 
 <p align="center">
-
-  <img
-    src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"
-    alt="FastAPI"
-  >
-
-  <img
-    src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white"
-    alt="Flask"
-  >
-
-  <img
-    src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"
-    alt="LangChain"
-  >
-
-  <img
-    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-    alt="Git"
-  >
-
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  >
-
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
 <br>
@@ -491,7 +449,7 @@ project dataset.
 
 <br>
 
-<!-- PROJECT 05 / FINTECH -->
+<!-- PROJECT 05 -->
 
 <table align="center" width="94%">
 <tr>
@@ -521,6 +479,15 @@ calculations, and LLM-based explanations.</b>
   >
 </a>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j">
+<img src="https://img.shields.io/badge/GraphRAG-1E90FF?style=flat-square" alt="GraphRAG">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" alt="LLMs">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+
 </td>
 
 <td width="42%" valign="middle">
@@ -544,14 +511,6 @@ AI Explanation
      ↓
 Dashboard / API
 </pre>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j">
-  <img src="https://img.shields.io/badge/GraphRAG-1E90FF?style=flat-square" alt="GraphRAG">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-</p>
 
 </td>
 
