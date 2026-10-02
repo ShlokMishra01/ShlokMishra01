@@ -581,10 +581,5 @@ Dashboard / API
   </sub>
 </p>
 
-<br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:172554,100:1e90ff&height=90&section=footer"
-  width="100%"
-  alt="Footer"
+<b
 >
