@@ -3,43 +3,26 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img
-    src="./githybb.gif"
-    width="100%"
-    height="190"
-    alt="Shlok Mishra"
-  >
+  <img src="./githybb.gif" width="40%" alt="Shlok Mishra">
 </p>
 
 <h1 align="center">SHLOK MISHRA</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=850&color=1E90FF&center=true&vCenter=true&width=760&height=45&lines=AI+%2F+ML+Developer;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;Explainable+AI+%2B+RAG+Systems;From+Notebook+to+Production"
-    alt="AI ML Developer"
-  >
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2600&pause=850&color=1E90FF&center=true&vCenter=true&width=760&lines=AI+%2F+ML+Developer;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;Explainable+AI+%2B+RAG+Systems;From+Notebook+to+Production" alt="Typing SVG">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shlok-mishra-9a649b255">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    >
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
   <a href="mailto:shlokmishrawork@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    >
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
   <a href="./Shlok_Mishra_Resume%20(1).pdf">
-    <img
-      src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readdotcv&logoColor=58A6FF"
-      alt="Resume"
-    >
+    <img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readdotcv&logoColor=58A6FF" alt="Resume">
   </a>
 </p>
 
@@ -50,10 +33,7 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/01-ABOUT-1E90FF?style=for-the-badge&labelColor=0D1117"
-    alt="About"
-  >
+  <img src="https://img.shields.io/badge/01-ABOUT-1E90FF?style=for-the-badge&labelColor=0D1117" alt="About">
 </p>
 
 <table align="center" width="94%">
@@ -90,13 +70,11 @@ I focus on turning technical ideas into software that is
 </td>
 
 <td width="33%" align="center" valign="middle">
-
-<img
-  src="./bfc8aae86c8b1d33920bdff8e4df236c.jpg"
-  width="180"
-  alt="Artwork"
->
-
+  <img
+    src="./bfc8aae86c8b1d33920bdff8e4df236c.jpg"
+    width="180"
+    alt="Artwork"
+  >
 </td>
 
 </tr>
@@ -117,79 +95,69 @@ I focus on turning technical ideas into software that is
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2100&pause=650&color=58A6FF&center=true&vCenter=true&width=900&height=55&lines=Python+%E2%80%A2+SQL+%E2%80%A2+TensorFlow+%E2%80%A2+scikit-learn;XGBoost+%E2%80%A2+LightGBM+%E2%80%A2+SHAP+%E2%80%A2+Machine+Learning;OpenCV+%E2%80%A2+CNNs+%E2%80%A2+Grad-CAM+%E2%80%A2+Computer+Vision;LLMs+%E2%80%A2+RAG+%E2%80%A2+LangChain+%E2%80%A2+LangGraph;FastAPI+%E2%80%A2+Flask+%E2%80%A2+REST+APIs+%E2%80%A2+Async+Endpoints;Git+%E2%80%A2+GitHub+%E2%80%A2+Production+Deployment"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2100&pause=650&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=Python+%E2%80%A2+SQL+%E2%80%A2+TensorFlow+%E2%80%A2+scikit-learn;XGBoost+%E2%80%A2+LightGBM+%E2%80%A2+SHAP+%E2%80%A2+Machine+Learning;OpenCV+%E2%80%A2+CNNs+%E2%80%A2+Grad-CAM+%E2%80%A2+Computer+Vision;LLMs+%E2%80%A2+RAG+%E2%80%A2+LangChain+%E2%80%A2+LangGraph;FastAPI+%E2%80%A2+Flask+%E2%80%A2+REST+APIs+%E2%80%A2+Async+Endpoints;Git+%E2%80%A2+GitHub+%E2%80%A2+Production+Deployment"
     alt="Technical Skills"
   >
 </p>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,postgres,tensorflow,sklearn,opencv,fastapi,flask,git,github,vite&theme=dark"
-    alt="Technology Stack"
-  >
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://skillicons.dev/icons?i=python,postgres,tensorflow,sklearn,opencv,fastapi,flask,git,github,vite&theme=dark"
+    >
+    <img
+      src="https://skillicons.dev/icons?i=python,postgres,tensorflow,sklearn,opencv,fastapi,flask,git,github,vite&theme=light"
+      alt="Technology Stack"
+    >
+  </picture>
 </p>
 
 <table align="center" width="94%">
 <tr>
 
 <td width="25%" align="center" valign="top">
-
-<b>MACHINE LEARNING</b>
-
-<br><br>
-
-<sub>
-Scikit-learn<br>
-XGBoost<br>
-LightGBM<br>
-SHAP
-</sub>
-
+  <b>MACHINE LEARNING</b>
+  <br><br>
+  <sub>
+    Scikit-learn<br>
+    XGBoost<br>
+    LightGBM<br>
+    SHAP
+  </sub>
 </td>
 
 <td width="25%" align="center" valign="top">
-
-<b>COMPUTER VISION</b>
-
-<br><br>
-
-<sub>
-TensorFlow<br>
-CNNs<br>
-OpenCV<br>
-Grad-CAM
-</sub>
-
+  <b>COMPUTER VISION</b>
+  <br><br>
+  <sub>
+    TensorFlow<br>
+    CNNs<br>
+    OpenCV<br>
+    Grad-CAM
+  </sub>
 </td>
 
 <td width="25%" align="center" valign="top">
-
-<b>GENERATIVE AI</b>
-
-<br><br>
-
-<sub>
-LLMs<br>
-RAG<br>
-LangChain<br>
-LangGraph
-</sub>
-
+  <b>GENERATIVE AI</b>
+  <br><br>
+  <sub>
+    LLMs<br>
+    RAG<br>
+    LangChain<br>
+    LangGraph
+  </sub>
 </td>
 
 <td width="25%" align="center" valign="top">
-
-<b>BACKEND</b>
-
-<br><br>
-
-<sub>
-FastAPI<br>
-Flask<br>
-REST APIs<br>
-Async Endpoints
-</sub>
-
+  <b>BACKEND</b>
+  <br><br>
+  <sub>
+    FastAPI<br>
+    Flask<br>
+    REST APIs<br>
+    Async Endpoints
+  </sub>
 </td>
 
 </tr>
@@ -198,61 +166,19 @@ Async Endpoints
 <br>
 
 <p align="center">
-
-  <img
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-    alt="Python"
-  >
-
-  <img
-    src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
-    alt="SQL"
-  >
-
-  <img
-    src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
-    alt="TensorFlow"
-  >
-
-  <img
-    src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"
-    alt="scikit-learn"
-  >
-
-  <img
-    src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"
-    alt="OpenCV"
-  >
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
 </p>
 
 <p align="center">
-
-  <img
-    src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"
-    alt="FastAPI"
-  >
-
-  <img
-    src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white"
-    alt="Flask"
-  >
-
-  <img
-    src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"
-    alt="LangChain"
-  >
-
-  <img
-    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-    alt="Git"
-  >
-
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  >
-
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
 <br>
@@ -523,7 +449,7 @@ project dataset.
 
 <br>
 
-<!-- PROJECT 05 / FINTECH -->
+<!-- PROJECT 05 -->
 
 <table align="center" width="94%">
 <tr>
@@ -534,15 +460,15 @@ project dataset.
 
 <h3>FinanceFlow AI</h3>
 
-Graph-powered financial intelligence system designed around
-<b>verified financial facts, connected relationships, deterministic
-calculations, and AI-generated explanations.</b>
+Graph-powered financial intelligence system designed around a simple
+principle: <b>financial facts and calculations should remain separate
+from AI-generated explanations.</b>
 
 <br><br>
 
 The system connects natural-language financial input with
-<b>Neo4j graph relationships, GraphRAG retrieval, financial calculations,
-and LLM-based explanations.</b>
+<b>Neo4j graph relationships, GraphRAG retrieval, deterministic financial
+calculations, and LLM-based explanations.</b>
 
 <br><br>
 
@@ -555,12 +481,12 @@ and LLM-based explanations.</b>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j">
 <img src="https://img.shields.io/badge/GraphRAG-1E90FF?style=flat-square" alt="GraphRAG">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
 <img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" alt="LLMs">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 
 </td>
 
