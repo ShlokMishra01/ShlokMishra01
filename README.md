@@ -1,62 +1,45 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Shlok Mishra, AI / ML Developer — monochrome manga technical dossier">
-
+<img align="top" src="./assets/hero.svg" width="100%" alt="Shlok Mishra, AI / ML Developer. Monochrome manga technical dossier.">
 <br>
-
-<a href="https://github.com/ShlokMishra01"><img src="./assets/btn-github.svg" height="52" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/shlok-mishra-9a649b255"><img src="./assets/btn-linkedin.svg" height="52" alt="LinkedIn"></a>
-<a href="mailto:shlokmishrawork@gmail.com"><img src="./assets/btn-email.svg" height="52" alt="Email"></a>
-<a href="./Shlok_Mishra_Resume%20(1).pdf"><img src="./assets/btn-resume.svg" height="52" alt="Resume (PDF)"></a>
-
-<br><br>
-
-<img src="./assets/h-about.svg" width="100%" alt="Section 01: Profile">
-<img src="./assets/about.svg" width="100%" alt="Profile sheet: Shlok Mishra, AI/ML engineering, BTech Computer Science and Artificial Intelligence, G H Raisoni College of Engineering Nagpur, batch 2027">
-
+<a href="https://github.com/ShlokMishra01"><img align="top" src="./assets/lk-github.svg" width="25%" alt="GitHub"></a><a href="https://www.linkedin.com/in/shlok-mishra-9a649b255/"><img align="top" src="./assets/lk-linkedin.svg" width="25%" alt="LinkedIn"></a><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=shlokmishrawork@gmail.com"><img align="top" src="./assets/lk-email.svg" width="25%" alt="Email shlokmishrawork@gmail.com"></a><a href="./Shlok_Mishra_Resume%20(1).pdf"><img align="top" src="./assets/lk-resume.svg" width="25%" alt="Resume (PDF)"></a>
 <br>
-
-<img src="./assets/h-pipeline.svg" width="100%" alt="Section 02: Engineering pipeline">
-<img src="./assets/pipeline.svg" width="100%" alt="Pipeline: data, process, model, retrieval, reasoning, API, deployment">
-
+<img align="top" src="./assets/s1-profile.svg" width="100%" alt="Profile: Shlok Mishra, AI/ML engineering, BTech Computer Science and Artificial Intelligence, G H Raisoni College of Engineering Nagpur, batch 2027">
 <br>
-
-<img src="./assets/h-stack.svg" width="100%" alt="Section 03: System stack">
-<img src="./assets/stack.svg" width="100%" alt="System stack: Python, SQL, ML, deep learning, computer vision, NLP, LLMs, RAG, agentic AI, LangChain, LangGraph, FastAPI, REST APIs, Pandas, NumPy, Neo4j, Git, GitHub, AWS">
-
+<img align="top" src="./assets/s2-pipeline.svg" width="100%" alt="Engineering pipeline: data, process, model, retrieval, reasoning, API, deployment">
 <br>
-
-<img src="./assets/h-exp.svg" width="100%" alt="Section 04: Field log">
-<img src="./assets/experience.svg" width="100%" alt="Workmates, Software Development Intern, May to August 2026">
-
-<sub>
-<a href="https://sunitanursingschool.in/">sunitanursingschool.in</a> &nbsp;·&nbsp;
-<a href="https://nsuryawanshicop.com/">nsuryawanshicop.com</a> &nbsp;·&nbsp;
-<a href="https://find-your-niche-01.vercel.app/">find-your-niche-01.vercel.app</a>
-</sub>
-
-<br><br>
-
-<img src="./assets/h-work.svg" width="100%" alt="Section 05: Selected work">
-
-<a href="https://github.com/ShlokMishra01/prithvi-agro-ai"><img src="./assets/p1.svg" width="100%" alt="Case file 01: Prithvi Agro AI"></a>
-
-<a href="https://github.com/ShlokMishra01/Find-your-niche-"><img src="./assets/p2.svg" width="100%" alt="Case file 02: Find Your Niche"></a>
-<sub><a href="https://find-your-niche-01.vercel.app/">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/ShlokMishra01/Find-your-niche-">Repository</a></sub>
-
-<a href="https://github.com/ShlokMishra01/Deepfake-Image-and-video-analyzer"><img src="./assets/p3.svg" width="100%" alt="Case file 03: Advanced Deepfake Detection"></a>
-
-<img src="./assets/p4.svg" width="100%" alt="Case file 04: Neuro Detect AI">
-
-<a href="https://github.com/ShlokMishra01/Fintech-assistant-model-with-neo4j-and-Python"><img src="./assets/p5.svg" width="100%" alt="Case file 05: FinanceFlow AI"></a>
-
+<img align="top" src="./assets/s3-stack.svg" width="100%" alt="System stack: Python, SQL, ML, deep learning, computer vision, NLP, LLMs, RAG, agentic AI, LangChain, LangGraph, FastAPI, REST APIs, Pandas, NumPy, Neo4j, Git, GitHub, AWS">
 <br>
-
-<img src="./assets/h-hl.svg" width="100%" alt="Section 06: Highlights">
-<img src="./assets/highlights.svg" width="100%" alt="Highlights: Smart India Hackathon finalist, five AI/ML projects, software development internship, deployed products, IEEE student branch team lead">
-
+<img align="top" src="./assets/s4-field.svg" width="100%" alt="Workmates, Software Development Intern, May to August 2026">
 <br>
-
-<img src="./assets/footer.svg" width="100%" alt="Let's build something intelligent. GitHub, LinkedIn, email.">
+<a href="https://sunitanursingschool.in/"><img align="top" src="./assets/lv-sunita.svg" width="34%" alt="sunitanursingschool.in, live"></a><a href="https://nsuryawanshicop.com/"><img align="top" src="./assets/lv-pharmacy.svg" width="33%" alt="nsuryawanshicop.com, live"></a><a href="https://find-your-niche-01.vercel.app/"><img align="top" src="./assets/lv-niche.svg" width="33%" alt="find-your-niche-01.vercel.app, live"></a>
+<br>
+<img align="top" src="./assets/s5-work.svg" width="100%" alt="Section 05: Selected work">
+<br>
+<img align="top" src="./assets/c1.svg" width="100%" alt="Case file 01: Prithvi Agro AI">
+<br>
+<a href="https://github.com/ShlokMishra01/prithvi-agro-ai"><img align="top" src="./assets/c1-repo.svg" width="100%" alt="Open repository: Prithvi Agro AI"></a>
+<br>
+<img align="top" src="./assets/c2.svg" width="100%" alt="Case file 02: Find Your Niche">
+<br>
+<a href="https://find-your-niche-01.vercel.app/"><img align="top" src="./assets/c2-live.svg" width="50%" alt="Live demo: Find Your Niche"></a><a href="https://github.com/ShlokMishra01/Find-your-niche-"><img align="top" src="./assets/c2-repo.svg" width="50%" alt="Repository: Find Your Niche"></a>
+<br>
+<img align="top" src="./assets/c3.svg" width="100%" alt="Case file 03: Advanced Deepfake Detection">
+<br>
+<a href="https://github.com/ShlokMishra01/Deepfake-Image-and-video-analyzer"><img align="top" src="./assets/c3-repo.svg" width="100%" alt="Open repository: Deepfake Image and Video Analyzer"></a>
+<br>
+<img align="top" src="./assets/c4.svg" width="100%" alt="Case file 04: Neuro Detect AI">
+<br>
+<img align="top" src="./assets/c4-end.svg" width="100%" alt="End of case file 04">
+<br>
+<img align="top" src="./assets/c5.svg" width="100%" alt="Case file 05: FinanceFlow AI">
+<br>
+<a href="https://github.com/ShlokMishra01/Fintech-assistant-model-with-neo4j-and-Python"><img align="top" src="./assets/c5-repo.svg" width="100%" alt="Open repository: FinanceFlow AI"></a>
+<br>
+<img align="top" src="./assets/s6-highlights.svg" width="100%" alt="Highlights: Smart India Hackathon finalist, five AI/ML projects, software development internship, deployed products, IEEE student branch team lead">
+<br>
+<img align="top" src="./assets/footer.svg" width="100%" alt="Let's build something intelligent.">
+<br>
+<a href="https://github.com/ShlokMishra01"><img align="top" src="./assets/ct-github.svg" width="34%" alt="GitHub"></a><a href="https://www.linkedin.com/in/shlok-mishra-9a649b255/"><img align="top" src="./assets/ct-linkedin.svg" width="33%" alt="LinkedIn"></a><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=shlokmishrawork@gmail.com"><img align="top" src="./assets/ct-email.svg" width="33%" alt="Email shlokmishrawork@gmail.com"></a>
 
 </div>
