@@ -1,15 +1,15 @@
 <!-- ====================================================== -->
-<!--                       HERO                             -->
+<!--                        HERO                            -->
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="./githybb.gif" width="100%" alt="Shlok Mishra">
+  <img src="./githybb.gif" width="72%" alt="Shlok Mishra">
 </p>
 
 <h1 align="center">SHLOK MISHRA</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2600&pause=850&color=1E90FF&center=true&vCenter=true&width=760&lines=AI+%2F+ML+Developer;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;Explainable+AI+%2B+RAG+Systems;From+Notebook+to+Production" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2600&pause=850&color=1E90FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Developer;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;Explainable+AI+%2B+RAG+Systems;From+Notebook+to+Production" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -41,19 +41,19 @@
 
 <h2>AI/ML Developer</h2>
 
-I build practical, explainable, and production-ready systems across
-<b>Machine Learning, Computer Vision, LLMs, RAG, and backend development.</b>
+I build practical AI systems across <b>Machine Learning, Computer Vision,
+LLMs, RAG, explainability, and backend development.</b>
 
 <br><br>
 
-My work spans the complete development cycle — from model experimentation
-and evaluation to explainability, REST APIs, deployment, and real-world
-implementation.
+My work covers the complete development cycle — from experimentation,
+model evaluation, and explainability to API development, deployment,
+integration, and production maintenance.
 
 <br><br>
 
-I enjoy turning AI concepts into systems that are actually usable,
-deployable, and built around real problems.
+I focus on turning research-driven ideas into software that is
+<b>usable, measurable, and deployable.</b>
 
 <br><br>
 
@@ -62,7 +62,7 @@ deployable, and built around real problems.
 </td>
 
 <td width="33%" align="center" valign="middle">
-  <img src="./bfc8aae86c8b1d33920bdff8e4df236c.jpg" width="215" alt="Artwork">
+  <img src="./bfc8aae86c8b1d33920bdff8e4df236c.jpg" width="190" alt="Artwork">
 </td>
 
 </tr>
@@ -71,7 +71,7 @@ deployable, and built around real problems.
 <br>
 
 <!-- ====================================================== -->
-<!--                 TECHNICAL SPECIALIZATION               -->
+<!--              TECHNICAL SPECIALIZATION                 -->
 <!-- ====================================================== -->
 
 <p align="center">
@@ -79,14 +79,11 @@ deployable, and built around real problems.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2100&pause=650&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=Python+%E2%80%A2+SQL+%E2%80%A2+TensorFlow+%E2%80%A2+scikit-learn;XGBoost+%E2%80%A2+LightGBM+%E2%80%A2+SHAP+%E2%80%A2+Machine+Learning;OpenCV+%E2%80%A2+CNNs+%E2%80%A2+Grad-CAM+%E2%80%A2+Computer+Vision;LLMs+%E2%80%A2+RAG+%E2%80%A2+LangChain+%E2%80%A2+LangGraph;FastAPI+%E2%80%A2+Flask+%E2%80%A2+REST+APIs+%E2%80%A2+Async+Endpoints;Git+%E2%80%A2+GitHub+%E2%80%A2+Production+Deployment" alt="Technical Skills">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2100&pause=650&color=58A6FF&center=true&vCenter=true&width=850&height=50&lines=Python+%E2%80%A2+SQL+%E2%80%A2+TensorFlow+%E2%80%A2+scikit-learn;XGBoost+%E2%80%A2+LightGBM+%E2%80%A2+SHAP+%E2%80%A2+Machine+Learning;OpenCV+%E2%80%A2+CNNs+%E2%80%A2+Grad-CAM+%E2%80%A2+Computer+Vision;LLMs+%E2%80%A2+RAG+%E2%80%A2+LangChain+%E2%80%A2+LangGraph;FastAPI+%E2%80%A2+Flask+%E2%80%A2+REST+APIs;Git+%E2%80%A2+GitHub+%E2%80%A2+Deployment" alt="Technical Skills">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,postgres,tensorflow,sklearn,opencv,fastapi,flask,git,github,vite&theme=dark">
-    <img src="https://skillicons.dev/icons?i=python,postgres,tensorflow,sklearn,opencv,fastapi,flask,git,github,vite&theme=light" alt="Technology Stack">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=python,postgres,tensorflow,sklearn,opencv,fastapi,flask,git,github,vite&theme=dark" alt="Technology Stack">
 </p>
 
 <table align="center" width="94%">
@@ -94,7 +91,7 @@ deployable, and built around real problems.
 
 <td width="25%" align="center" valign="top">
 <b>MACHINE LEARNING</b>
-<br>
+<br><br>
 <sub>
 Scikit-learn<br>
 XGBoost<br>
@@ -105,7 +102,7 @@ SHAP
 
 <td width="25%" align="center" valign="top">
 <b>COMPUTER VISION</b>
-<br>
+<br><br>
 <sub>
 TensorFlow<br>
 CNNs<br>
@@ -116,7 +113,7 @@ Grad-CAM
 
 <td width="25%" align="center" valign="top">
 <b>GENERATIVE AI</b>
-<br>
+<br><br>
 <sub>
 LLMs<br>
 RAG<br>
@@ -127,7 +124,7 @@ LangGraph
 
 <td width="25%" align="center" valign="top">
 <b>BACKEND</b>
-<br>
+<br><br>
 <sub>
 FastAPI<br>
 Flask<br>
@@ -197,21 +194,20 @@ Affiliated with<br>
 
 Delivered <b>two production institutional platforms</b> for
 <b>Sunita Nursing School</b> and
-<b>Narendra Suryawanshi College of Pharmacy</b>, converting fragmented
-admissions, academic, faculty, approval, compliance, and contact information
-into structured digital systems.
+<b>Narendra Suryawanshi College of Pharmacy</b>.
 
 <br><br>
 
-Designed reusable modules and a lightweight internal workflow for
-institutional records, document access, notices, enquiries, and recurring
-content updates based on stakeholder requirements.
+Designed reusable interfaces and structured workflows for institutional
+information, admissions, academics, faculty, notices, enquiries,
+documents, and recurring content updates.
 
 <br><br>
 
-Managed production releases through <b>Git/GitHub and Hostinger</b>,
-including responsive testing, EmailJS integration, DNS/SSL setup, indexing,
-sitemap and canonical metadata, troubleshooting, and post-launch maintenance.
+Handled production deployment and maintenance through
+<b>Git/GitHub and Hostinger</b>, including responsive testing,
+EmailJS integration, DNS/SSL configuration, indexing, sitemap and
+canonical metadata, troubleshooting, and post-launch updates.
 
 </td>
 
@@ -264,20 +260,8 @@ sitemap and canonical metadata, troubleshooting, and post-launch maintenance.
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square" alt="Hostinger">
-  <img src="https://img.shields.io/badge/EmailJS-1E90FF?style=flat-square" alt="EmailJS">
-  <img src="https://img.shields.io/badge/DNS%2FSSL-00A86B?style=flat-square" alt="DNS SSL">
-  <img src="https://img.shields.io/badge/Technical_SEO-0969DA?style=flat-square" alt="Technical SEO">
-</p>
-
-<br>
-
 <!-- ====================================================== -->
-<!--                     SELECTED WORK                      -->
+<!--                     SELECTED WORK                     -->
 <!-- ====================================================== -->
 
 <p align="center">
@@ -294,7 +278,7 @@ sitemap and canonical metadata, troubleshooting, and post-launch maintenance.
 <h3>Prithvi Agro AI</h3>
 
 Explainable agricultural decision-support system combining
-<b>machine learning, SHAP, weather/soil data, market intelligence,
+<b>machine learning, SHAP, weather and soil data, market intelligence,
 and an LLM/RAG assistant.</b>
 
 <br><br>
@@ -312,6 +296,36 @@ and an LLM/RAG assistant.</b>
 <td width="50%" valign="top">
 
 <sub>PROJECT / 02</sub>
+
+<h3>Find Your Niche</h3>
+
+AI-powered taste discovery platform that builds a personal taste profile
+across <b>movies, books, music, and coding/open-source projects</b> using
+semantic similarity, recommendations, and RAG-based conversations.
+
+<br><br>
+
+<a href="https://find-your-niche-01.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Find Your Niche Live Demo">
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+<img src="https://img.shields.io/badge/RAG-1E90FF?style=flat-square" alt="RAG">
+<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" alt="LLMs">
+<img src="https://img.shields.io/badge/OpenRouter-412991?style=flat-square" alt="OpenRouter">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<sub>PROJECT / 03</sub>
 
 <h3>Advanced Deepfake Detection</h3>
 
@@ -331,24 +345,19 @@ blockchain-compatible authenticity verification.</b>
 
 </td>
 
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<br>
-
-<table align="center" width="47%">
-<tr>
-
-<td width="100%" valign="top">
-
-<sub>PROJECT / 03</sub>
+<sub>PROJECT / 04</sub>
 
 <h3>Neuro Detect AI</h3>
 
 CNN-based MRI screening prototype with preprocessing,
-confidence-based inference, and automated reporting,
-achieving approximately <b>90% validation accuracy</b>
-on the project dataset.
+confidence-based inference, and automated reporting.
+
+<br><br>
+
+Achieved approximately <b>90% validation accuracy</b> on the
+project dataset.
 
 <br><br>
 
@@ -366,7 +375,7 @@ on the project dataset.
 <br>
 
 <!-- ====================================================== -->
-<!--                       HIGHLIGHTS                       -->
+<!--                      HIGHLIGHTS                        -->
 <!-- ====================================================== -->
 
 <p align="center">
@@ -382,22 +391,22 @@ on the project dataset.
 
 <tr>
 <td width="8%" align="center"><b>02</b></td>
-<td><b>IEEE Student Branch Team Lead</b> — technical coordination, hackathons & workshops</td>
+<td><b>IEEE Student Branch Team Lead</b> — technical coordination, hackathons and workshops</td>
 </tr>
 
 <tr>
 <td width="8%" align="center"><b>03</b></td>
-<td><b>Google Solution Challenge</b> — UN SDG-aligned technology solution</td>
+<td><b>2 Production Platforms Shipped</b> — institutional web systems delivered and maintained in production</td>
 </tr>
 
 <tr>
 <td width="8%" align="center"><b>04</b></td>
-<td>Shipped <b>2 production institutional platforms</b></td>
+<td><b>AI/ML Project Portfolio</b> — Machine Learning, Computer Vision, LLM/RAG and AI-backed applications</td>
 </tr>
 
 <tr>
 <td width="8%" align="center"><b>05</b></td>
-<td>Building across <b>ML, Computer Vision, LLM/RAG & AI-backed applications</b></td>
+<td><b>Full Development Lifecycle</b> — experimentation, explainability, APIs, deployment and integration</td>
 </tr>
 
 </table>
@@ -405,7 +414,7 @@ on the project dataset.
 <br>
 
 <!-- ====================================================== -->
-<!--                        FOOTER                          -->
+<!--                       FOOTER                           -->
 <!-- ====================================================== -->
 
 <p align="center">
