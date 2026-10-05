@@ -18,7 +18,7 @@
 <br>
 <img align="top" src="./assets/c1.svg" width="100%" alt="Case file 01: Prithvi Agro AI">
 <br>
-<a href="https://github.com/ShlokMishra01/prithvi-agro-ai"><img align="top" src="./assets/c1-repo.svg" width="100%" alt="Open repository: Prithvi Agro AI"></a>
+<a href="https://github.com/ShlokMishra01/Prithvi-agro-crop-assistant-model"><img align="top" src="./assets/c1-repo.svg" width="100%" alt="Open repository: Prithvi Agro AI"></a>
 <br>
 <img align="top" src="./assets/c2.svg" width="100%" alt="Case file 02: Find Your Niche">
 <br>
